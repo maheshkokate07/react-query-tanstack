@@ -4,4 +4,4 @@ Day 1 — Basic Fetching
 - Handle loading, error, retry, and refetch states with minimal code
 - See how React Query removes boilerplate and improves DX
 
-Live Demo: 
+Live Demo: https://mahesh-tanstack-day1.netlify.app/
